@@ -10,3 +10,5 @@ def model2:
 def model3:
     print('code for model 1')
 
+print('Model 2 is final mode')
+
